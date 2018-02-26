@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitProjectTest</string>
+    <string name="error_loading">Ошибка загрузки</string>
+    <string name="public_rep">Public repositories</string>
+    <string name="web_View">Web</string>
+    <string name="choose">Your choise?</string>
+</resources>
